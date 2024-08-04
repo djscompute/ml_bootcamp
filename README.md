@@ -17,8 +17,7 @@ To set up the environment, clone this repository and install the required packag
 ```sh
 git clone https://github.com/djscompute/ml_bootcamp.git
 cd ml_bootcamp
-pip install -r requirements.txt
-pip install joblib xgboost streamlit
+pip install -r requirements.txt  //Installs all necessary files for running .py file
 streamlit run main.py
 
 
